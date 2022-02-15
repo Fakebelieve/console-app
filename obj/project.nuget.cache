@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GTAscfTUdC79DH2vGGe4iqeB8+TVOiC5uG5dhYfdUZgILhyReszYxrczNcAxcR/G/VM57e3bsG+K6Y+jabBzVg==",
+  "success": true,
+  "projectFilePath": "/home/fakebelieve/Documents/Systems Design/console-app/console-app.csproj",
+  "expectedPackageFiles": [
+    "/home/fakebelieve/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
