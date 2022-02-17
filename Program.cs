@@ -6,7 +6,11 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            Tools.Menu();
+            bool showMenu = true;
+            while (showMenu)
+            {
+                showMenu = Tools.Menu();
+            }
         }
     }
 }
